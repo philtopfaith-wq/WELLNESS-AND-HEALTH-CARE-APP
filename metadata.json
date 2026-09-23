@@ -1,0 +1,7 @@
+{
+  "name": "AuraHealth - AI Wellness & Healthcare Guide",
+  "description": "A privacy-first, account-free wellness companion providing AI-powered health Q&A, medication reference, nutrition & meal planning, women's health tools, and evidence-informed health education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
